@@ -29,7 +29,7 @@ This project demonstrates that you can build full-featured, interactive apps wit
 ⸻
 
 🚀 Try It Live
- • Live app link: https://expo.dev/@humairaa/skillsync
+ • Live app link: http://bit.ly/4nDCfvP
  • Open on Expo Go (iOS/Android) to try it instantly.
 
 
@@ -45,7 +45,7 @@ This project demonstrates that you can build full-featured, interactive apps wit
 
 📧 Contact
  • Developer: Aisha Aliyu
- • Portfolio: https://yourportfolio.com (https://yourportfolio.com/)
- • GitHub: https://github.com/yourusername
+ • Portfolio: https://aisha-aliyu.com 
+ • GitHub: https://github.com/Aisha-Aliyu
 
-🔑 Tip: Include the QR code of your live app so recruiters can try it directly from their phone.
+
